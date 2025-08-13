@@ -1,3 +1,3 @@
 # djangotutorial
 
-Currently on part two - admin interface
+Currently on part three - beginning
